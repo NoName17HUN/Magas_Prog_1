@@ -1,0 +1,10 @@
+monitor 11 4.5
+pencil 100 7.4
+computer 12 11.1
+lamp 1500 99.9
+mask 22 100
+calendar 1 159.1
+chest 55 1.11111
+dice 111 20
+sledge 10 99
+orban_statue 495 1.12
